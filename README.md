@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on Google 
 - 📫 How to reach me @busisiwefoloti3@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: her/she
+- ⚡ Fun fact:I love love sleeping 
 
 <!---
 Sisiwe/Sisiwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
